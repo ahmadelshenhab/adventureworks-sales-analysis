@@ -43,7 +43,6 @@ The analysis covers **$109.8M in revenue** and answers where the business makes 
 
 ## Recommendations
 - Review reseller pricing and discount terms: reseller orders have negative margins in every territory.
-- Grow the online channel, which earns about 40% margin everywhere.
 - Protect the Bikes category, but look for ways to raise the thin 8.5% overall margin through pricing or cost control.
 - Look at why Australia converts revenue to profit better than the largest market, and apply what works elsewhere.
 
